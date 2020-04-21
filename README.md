@@ -12,7 +12,7 @@ Además me apoyé de otras paginas para responder a mis dudas, muy recomendado y
 
 ## WEB:
 
-![GIF de la Pagina Web](imagenes/new.gif)
+![GIF de la Pagina Web](imagenes/webxd.gif)
 
 
 > Apoyame con un Café <3
