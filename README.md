@@ -20,16 +20,16 @@
 ## Además encontré unas Plantillas que son 100% editables, pueden descargarlo.
 
 * Pantilla 1: Pagina Web de un Studio
-* Pantilla 1: Pagina Web de Ventas de alimentos
-* Pantilla 1: Pagina Web de Viajes
-* Pantilla 1: Pagina Web de Servicios
-* Pantilla 1: Pagina Web de Trabajos
-* Pantilla 1: Pagina Web de Servicios Médicos
-* Pantilla 1: Pagina Web de Ventas
-* Pantilla 1: Pagina Web de Ventas de Cursos Online
-* Pantilla 1: Pagina Web de Ventas de fotos
-* Pantilla 1: Pagina Web de Servicios Web
-* Pantilla 1: Pagina Web de ventas de platillos
+* Pantilla 2: Pagina Web de Ventas de alimentos
+* Pantilla 3: Pagina Web de Viajes
+* Pantilla 4: Pagina Web de Servicios
+* Pantilla 5: Pagina Web de Trabajos
+* Pantilla 6: Pagina Web de Servicios Médicos
+* Pantilla 7: Pagina Web de Ventas
+* Pantilla 8: Pagina Web de Ventas de Cursos Online
+* Pantilla 9: Pagina Web de Ventas de fotos
+* Pantilla 10: Pagina Web de Servicios Web
+* Pantilla 11: Pagina Web de ventas de platillos
 
 
 > Apoyame con un Café <3
