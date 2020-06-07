@@ -32,6 +32,6 @@
 * Pantilla 11: Pagina Web de ventas de platillos
 
 
-> Apoyame con un Café <3
+Apoya o visita mi perfil de Ko-fi para más ayuda :heart_eyes: :heart:
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C01KIR7)
